@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "623a",
+      "name": "teste",
+      "description": "teste teste",
+      "genero": "teste",
+      "classificacao": "10",
+      "nota": "20"
+    }
+  ]
+}
